@@ -1,4 +1,4 @@
-# awsome-processes
+# awesome-processes
 
 A curated list of awesome processes that would make building a company more effective and resilient.
 
